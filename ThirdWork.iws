@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="279f5b00-b0c6-4e85-aaab-119d3080e3a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ThirdWork.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoCoinPossibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/CoinPossibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/utils/MathUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CoinPossibilityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThirdWork.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdWork.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ThirdWork/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ThirdWork/LibraryTest.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/DoCoinPossibility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/classes/META-INF/ThirdWork.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/classes/META-INF/ThirdWork.main.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/AnythingPossibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/CoinObcersePossibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/DiceIsTwoPossibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdWork.iws" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdWork.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DoCoinPossibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DoCoinPossibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/CoinPossibility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/MathUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CoinPossibilityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CoinObcersePossibilityTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -99,31 +102,14 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CoinPossibilityTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CoinObcersePossibilityTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+            <state relative-caret-position="46">
+              <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/service/CoinPossibility.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="22" column="84" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="84" />
-              <folding>
-                <element signature="e#103#104#0" expanded="true" />
-                <element signature="e#126#127#0" expanded="true" />
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#360#361#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -132,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/DoCoinPossibility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="209">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,14 +128,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/utils/MathUtils.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/AnythingPossibility.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/CoinObcersePossibility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
               <folding>
-                <element signature="e#80#81#0" expanded="true" />
-                <element signature="e#151#152#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/service/DiceIsTwoPossibility.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -159,6 +165,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -172,11 +179,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/DoAnything.java" />
-        <option value="$PROJECT_DIR$/src/main/java/service/CoinObcersePossibility.java" />
         <option value="$PROJECT_DIR$/src/test/java/DoAnythingTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/utils/MathUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/service/CoinPossibility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/CPossibility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/AnythingPossibility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/DicePossibility.java" />
         <option value="$PROJECT_DIR$/src/test/java/CoinPossibilityTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/CoinPossibility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/CoinObcersePossibility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/service/DiceIsTwoPossibility.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CoinObcersePossibilityTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoCoinPossibility.java" />
       </list>
     </option>
@@ -211,7 +223,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -267,6 +278,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,6 +293,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -322,11 +339,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinPossibilityTest.get_anything_possibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CoinObcersePossibilityTest.get_coin_obcerse_possibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdWork.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CoinPossibilityTest" />
-      <option name="METHOD_NAME" value="get_anything_possibility" />
+      <option name="MAIN_CLASS_NAME" value="CoinObcersePossibilityTest" />
+      <option name="METHOD_NAME" value="get_coin_obcerse_possibility" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -338,11 +355,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinPossibilityTest.get_coin_any_times_possibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CoinObcersePossibilityTest.get_dice_two_possibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdWork.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CoinPossibilityTest" />
-      <option name="METHOD_NAME" value="get_coin_any_times_possibility" />
+      <option name="MAIN_CLASS_NAME" value="CoinObcersePossibilityTest" />
+      <option name="METHOD_NAME" value="get_dice_two_possibility" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -354,10 +371,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinPossibilityTest.get_factorial_result" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CoinObcersePossibilityTest.get_factorial_result" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdWork.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CoinPossibilityTest" />
+      <option name="MAIN_CLASS_NAME" value="CoinObcersePossibilityTest" />
       <option name="METHOD_NAME" value="get_factorial_result" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -370,10 +387,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CoinObcersePossibilityTest.get_multi_anytimes_obcerse_possibility" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ThirdWork.test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CoinPossibilityTest" />
+      <option name="MAIN_CLASS_NAME" value="CoinObcersePossibilityTest" />
       <option name="METHOD_NAME" value="get_multi_anytimes_obcerse_possibility" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -412,10 +429,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.DoCoinPossibility" />
-        <item itemvalue="JUnit.CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" />
-        <item itemvalue="JUnit.CoinPossibilityTest.get_factorial_result" />
-        <item itemvalue="JUnit.CoinPossibilityTest.get_coin_any_times_possibility" />
-        <item itemvalue="JUnit.CoinPossibilityTest.get_anything_possibility" />
+        <item itemvalue="JUnit.CoinObcersePossibilityTest.get_coin_obcerse_possibility" />
+        <item itemvalue="JUnit.CoinObcersePossibilityTest.get_dice_two_possibility" />
+        <item itemvalue="JUnit.CoinObcersePossibilityTest.get_multi_anytimes_obcerse_possibility" />
+        <item itemvalue="JUnit.CoinObcersePossibilityTest.get_factorial_result" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +447,8 @@
       <option name="presentableId" value="Default" />
       <updated>1566818720772</updated>
       <workItem from="1566818718172" duration="2484000" />
-      <workItem from="1566821721120" duration="5307000" />
+      <workItem from="1566821721120" duration="6063000" />
+      <workItem from="1566910736101" duration="1781000" />
     </task>
     <task id="LOCAL-00001" summary="初始化项目">
       <created>1566821171784</created>
@@ -439,22 +457,17 @@
       <option name="project" value="LOCAL" />
       <updated>1566821171784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="测试硬币向上的次数">
+      <created>1566827425866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566827425866</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CoinPossibilityTest_get_factorial_result - 2019.08.26 at 21h 30m 55s.xml">
-      <configuration name="CoinPossibilityTest.get_factorial_result" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CoinPossibilityTest_get_multi_anytimes_obcerse_possibility - 2019.08.26 at 21h 34m 42s.xml">
-      <configuration name="CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CoinPossibilityTest_get_multi_anytimes_obcerse_possibility - 2019.08.26 at 21h 35m 24s.xml">
-      <configuration name="CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CoinPossibilityTest_get_multi_anytimes_obcerse_possibility - 2019.08.26 at 21h 36m 23s.xml">
-      <configuration name="CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CoinPossibilityTest_get_multi_anytimes_obcerse_possibility - 2019.08.26 at 21h 37m 21s.xml">
       <configuration name="CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" configurationId="JUnit" />
     </history-entry>
@@ -473,22 +486,33 @@
     <history-entry file="CoinPossibilityTest_get_multi_anytimes_obcerse_possibility - 2019.08.26 at 21h 43m 57s.xml">
       <configuration name="CoinPossibilityTest.get_multi_anytimes_obcerse_possibility" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CoinObcersePossibilityTest_get_dice_two_possibility - 2019.08.27 at 21h 21m 19s.xml">
+      <configuration name="CoinObcersePossibilityTest.get_dice_two_possibility" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoinObcersePossibilityTest_get_coin_obcerse_possibility - 2019.08.27 at 21h 21m 31s.xml">
+      <configuration name="CoinObcersePossibilityTest.get_coin_obcerse_possibility" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoinObcersePossibilityTest_get_dice_two_possibility - 2019.08.27 at 21h 25m 05s.xml">
+      <configuration name="CoinObcersePossibilityTest.get_dice_two_possibility" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CoinObcersePossibilityTest_get_coin_obcerse_possibility - 2019.08.27 at 21h 25m 10s.xml">
+      <configuration name="CoinObcersePossibilityTest.get_coin_obcerse_possibility" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7791000" />
+    <option name="totallyTimeSpent" value="10328000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3295082" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295082" />
@@ -502,6 +526,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32996634" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -518,9 +543,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <MESSAGE value="初始化项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="初始化项目" />
+    <MESSAGE value="测试硬币向上的次数" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试硬币向上的次数" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="debuggerHistoryManager">
@@ -538,50 +563,13 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ThirdWork/LibraryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="97" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="97" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoAnything.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CoinPossibilityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/ThirdWork/LibraryTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoAnything.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Utils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/utils/MathUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="75">
           <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
           <folding>
             <element signature="e#80#81#0" expanded="true" />
@@ -590,25 +578,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/CoinPossibility.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/CoinObcersePossibility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="22" column="84" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="84" />
+        <state relative-caret-position="325">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#360#361#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/CoinObcersePossibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/AnythingPossibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/DiceIsTwoPossibility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CoinObcersePossibilityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" column="69" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DoCoinPossibility.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="209">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
